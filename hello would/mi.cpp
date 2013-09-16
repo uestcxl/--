@@ -15,5 +15,5 @@ int main()
 	cout << "please input x and y :"<<endl;
 	cin >>x >>y;
 	cout << mi(x,y)<< endl;
-	return 0;
+	return 0 ;
 }
